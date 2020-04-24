@@ -1,0 +1,2 @@
+# Hospital-DataBase-Management-System
+Hospital Database contains information of doctors, patients, nurses and tests. There are many doctors in the hospital; we’d like to record their identification (ID), name, gender, age, phone number, address, years of experience and specialization. We also have patients, who have identifier (ID), name, gender, age, phone number, address, and disease information.
